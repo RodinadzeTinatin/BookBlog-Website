@@ -23,6 +23,22 @@
     --secondary: #EAECCC;
     --primary: #CD8D7A;
 }
+
+.GEO{
+    font-family: GeoFont !important;
+}
+
+.GEO-bold{
+    font-family: GeoFontBold;
+}
+.GEO-italic{
+    font-family: GeoFontItalic;
+}
+
+.ENG{
+    font-family: Font !important;
+}
+
 body{
     background-color: var(--background) !important;
 }
@@ -109,16 +125,7 @@ body{
     background-color: var(--background) !important;
 }
 
-.GEO{
-    font-family: GeoFont !important;
-}
 
-.GEO-bold{
-    font-family: GeoFontBold;
-}
-.GEO-italic{
-    font-family: GeoFontItalic;
-}
 .u-image{
     margin-top: 20px !important
 }
